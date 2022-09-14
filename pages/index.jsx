@@ -106,7 +106,7 @@ const Home = () => {
             getTokenData();
           }}
         >
-          Compare
+          Test
         </button>
       </div>
     </div>
